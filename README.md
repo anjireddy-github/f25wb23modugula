@@ -6,3 +6,14 @@ This is an Express.js web application using Pug as the view engine, created for 
 
 ## Author
 Anji Reddy Modugula
+
+## Deployment
+This application is deployed on Render at: https://f25wb23modugula.onrender.com
+
+## Local Setup
+```bash
+npm install
+npm start
+```
+
+The server will run on http://localhost:3000
